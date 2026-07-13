@@ -52072,11 +52072,7 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {
-                ".atlas": "enemy_8012_mcnd.atlas",
-                ".png": "enemy_8012_mcnd.png",
-                ".skel": "enemy_8012_mcnd.skel"
-            }
+            "assetList": {}
         },
         "7113_xb2mcnrhd": {
             "assetId": "enemy_7113_xb2mcnrhd",
@@ -52090,11 +52086,7 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {
-                ".atlas": "enemy_8015_mcnrhd.atlas",
-                ".png": "enemy_8015_mcnrhd.png",
-                ".skel": "enemy_8015_mcnrhd.skel"
-            }
+            "assetList": {}
         },
         "7114_xb2mcnrsh": {
             "assetId": "enemy_7114_xb2mcnrsh",
@@ -52126,11 +52118,7 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {
-                ".atlas": "enemy_8014_mcnelp.atlas",
-                ".png": "enemy_8014_mcnelp.png",
-                ".skel": "enemy_8014_mcnelp.skel"
-            }
+            "assetList": {}
         },
         "7116_xb2mdrock": {
             "assetId": "enemy_7116_xb2mdrock",
@@ -52144,11 +52132,7 @@
                 "Enemy",
                 "EnemyNormal"
             ],
-            "assetList": {
-                ".atlas": "enemy_1511_mdrock.atlas",
-                ".png": "enemy_1511_mdrock.png",
-                ".skel": "enemy_1511_mdrock.skel"
-            }
+            "assetList": {}
         },
         "7117_xb2mcnist": {
             "assetId": "enemy_7117_xb2mcnist",
